@@ -1,2 +1,2 @@
-JP Morgan Data Scientist Technical Assignment <br>
+JP Morgan Data Scientist Technical Assessment <br>
 Author: Tianhao Wu - tw2833@columbia.edu
