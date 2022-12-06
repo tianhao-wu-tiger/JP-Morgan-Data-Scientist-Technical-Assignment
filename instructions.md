@@ -1,6 +1,7 @@
 # Assessment
 
 You are given a dataset to predict cognitive test scores of preschoolers given characteristics of their mothers.
+(5 variables, 434 records)
 
 Data dictionary:
 
